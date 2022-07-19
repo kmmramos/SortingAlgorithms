@@ -14,9 +14,9 @@ namespace Sorts
                 Console.WriteLine("Actions");
                 Console.WriteLine("Select from the options below:");
                 Console.WriteLine("[1] Bubble Sort");
-                Console.WriteLine("[2] M and N Reversal");
-                Console.WriteLine("[3] Flatten Multi-Level Linked List");
-                Console.WriteLine("[4] Cycle Detection in Linked List");
+                Console.WriteLine("[2] Selection Sort");
+                Console.WriteLine("[3] Insertion Sort");
+                Console.WriteLine("[4] Merge Sort");
                 Console.WriteLine("Enter action:");
                 input = Console.ReadLine();
                 choice = Validator.IsInteger(ref input, choice);
