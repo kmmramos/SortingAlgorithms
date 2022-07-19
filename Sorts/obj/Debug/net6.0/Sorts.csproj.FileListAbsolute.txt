@@ -1,0 +1,15 @@
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\bin\Debug\net6.0\Sorts.exe
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\bin\Debug\net6.0\Sorts.deps.json
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\bin\Debug\net6.0\Sorts.runtimeconfig.json
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\bin\Debug\net6.0\Sorts.dll
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\bin\Debug\net6.0\Sorts.pdb
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\obj\Debug\net6.0\Sorts.csproj.AssemblyReference.cache
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\obj\Debug\net6.0\Sorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\obj\Debug\net6.0\Sorts.AssemblyInfoInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\obj\Debug\net6.0\Sorts.AssemblyInfo.cs
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\obj\Debug\net6.0\Sorts.csproj.CoreCompileInputs.cache
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\obj\Debug\net6.0\Sorts.dll
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\obj\Debug\net6.0\refint\Sorts.dll
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\obj\Debug\net6.0\Sorts.pdb
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\obj\Debug\net6.0\Sorts.genruntimeconfig.cache
+C:\Users\kirstinmegga.ramos\source\repos\Sorts\Sorts\obj\Debug\net6.0\ref\Sorts.dll
