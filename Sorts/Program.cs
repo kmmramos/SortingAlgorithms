@@ -41,9 +41,9 @@ namespace Sorts
                     case 3:
                         Display.Problem3();
                         break;
-                    //case 4:
-                    //    Display.Problem4();
-                    //    break;
+                    case 4:
+                        Display.Problem4();
+                        break;
                     default:
                         break;
                 }
