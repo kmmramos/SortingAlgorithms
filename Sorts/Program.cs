@@ -17,6 +17,8 @@ namespace Sorts
                 Console.WriteLine("[2] Selection Sort");
                 Console.WriteLine("[3] Insertion Sort");
                 Console.WriteLine("[4] Merge Sort");
+                Console.WriteLine("[5] Quick Sort");
+                Console.WriteLine("[6] Kth Smallest Using QuickSelect");
                 Console.WriteLine("Enter action:");
                 input = Console.ReadLine();
                 choice = Validator.IsInteger(ref input, choice);
@@ -43,6 +45,12 @@ namespace Sorts
                         break;
                     case 4:
                         Display.Problem4();
+                        break;
+                    case 5:
+                        Display.Problem5();
+                        break;
+                    case 6:
+                        Display.Problem6();
                         break;
                     default:
                         break;
